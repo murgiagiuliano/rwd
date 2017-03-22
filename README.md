@@ -1,7 +1,4 @@
-# Responsive Web Design (RWD) Example
+# Responsive Web Design (RWD) Exercise 2
 
-## Installation
-- Clone or download the current project file.
-- Unzip the current project file.
-- Download  bootstrap from this [link](https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip).
-- Unzip the file and rename the bootstrap directory to "vendors"
+## Esercizio 2
+- Esercizio 2 di Giualiano Murgia
